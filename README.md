@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Esto es una practica de un chat basico para entender el funcionamiento de distintas tecnologias como node y websockets</h4>
+<h4 align="left">Esto es una practica de un chat basico para entender el funcionamiento de distintas tecnologias como Node, WebSockets y Express</h4>
 
 ###
 
@@ -23,7 +23,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
 </div>
 
 ###
